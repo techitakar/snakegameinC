@@ -5,7 +5,7 @@
 - [A bit of problem](#problem)
 ---
 ## Description
-This is just a small snake game created in C using basic functions. One of the Key function used is [kbhit()](https://www.cprogramming.com/fod/kbhit.html) and getch(). Once you learn kbhit u can easily create other similar games. It also uses the fileIO functions for tracking highscore.
+This is just a small snake game created in C using basic functions. One of the Key function used is [kbhit()](https://www.cprogramming.com/fod/kbhit.html) and getch(). Once you learn kbhit u can easily create other similar games. It also uses the fileIO functions for tracking highscore. Use 'WSAD' to control the snake.
 
 ```kbhit()```
 
